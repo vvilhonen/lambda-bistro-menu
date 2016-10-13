@@ -1,0 +1,6 @@
+.idea/
+.nvmrc
+app.zip
+bistro_menus/
+node_modules/
+slack_hook.sh
